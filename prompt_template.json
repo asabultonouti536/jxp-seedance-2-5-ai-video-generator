@@ -1,0 +1,31 @@
+{
+  "product": "Seedance 2.5",
+  "target_url": "https://www.jxp.com/seedance/seedance-2-5",
+  "idea": "",
+  "style": "",
+  "duration_seconds": 10,
+  "aspect_ratio": "16:9",
+  "references": {
+    "image": [],
+    "video": [],
+    "audio": [],
+    "style_notes": []
+  },
+  "prompt_sections": {
+    "subject": "",
+    "scene": "",
+    "camera": "",
+    "motion": "",
+    "lighting": "",
+    "mood": "",
+    "negative_notes": ""
+  },
+  "review_checklist": [
+    "Subject consistency",
+    "Camera motion",
+    "Lighting and mood",
+    "Prompt-to-output alignment",
+    "Reference accuracy",
+    "Usability for campaign or storyboard"
+  ]
+}
