@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="520" viewBox="0 0 1180 520">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f5f3ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <text x="80" y="72" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" fill="#111827">Multi-Reference Video Planning</text>
+  <text x="80" y="108" font-family="Inter, Arial, sans-serif" font-size="16" fill="#475569">Use different reference types to guide a more controlled Seedance 2.5 generation.</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="90" y="160" width="230" height="230" rx="18" fill="white" stroke="#7c3aed" stroke-width="2"/>
+    <text x="205" y="210" text-anchor="middle" font-size="22" font-weight="800" fill="#4c1d95">Inputs</text>
+    <text x="205" y="250" text-anchor="middle" font-size="15" fill="#374151">Text prompt</text>
+    <text x="205" y="278" text-anchor="middle" font-size="15" fill="#374151">Image references</text>
+    <text x="205" y="306" text-anchor="middle" font-size="15" fill="#374151">Video references</text>
+    <text x="205" y="334" text-anchor="middle" font-size="15" fill="#374151">Audio / mood notes</text>
+    <path d="M340 275 C420 275, 420 275, 500 275" stroke="#7c3aed" stroke-width="3" fill="none"/>
+    <polygon points="500,275 488,268 488,282" fill="#7c3aed"/>
+    <rect x="510" y="160" width="230" height="230" rx="18" fill="white" stroke="#7c3aed" stroke-width="2"/>
+    <text x="625" y="210" text-anchor="middle" font-size="22" font-weight="800" fill="#4c1d95">Seedance Plan</text>
+    <text x="625" y="250" text-anchor="middle" font-size="15" fill="#374151">Subject</text>
+    <text x="625" y="278" text-anchor="middle" font-size="15" fill="#374151">Camera movement</text>
+    <text x="625" y="306" text-anchor="middle" font-size="15" fill="#374151">Lighting</text>
+    <text x="625" y="334" text-anchor="middle" font-size="15" fill="#374151">Review checklist</text>
+    <path d="M760 275 C840 275, 840 275, 920 275" stroke="#7c3aed" stroke-width="3" fill="none"/>
+    <polygon points="920,275 908,268 908,282" fill="#7c3aed"/>
+    <rect x="930" y="160" width="170" height="230" rx="18" fill="white" stroke="#7c3aed" stroke-width="2"/>
+    <text x="1015" y="210" text-anchor="middle" font-size="22" font-weight="800" fill="#4c1d95">Output</text>
+    <text x="1015" y="255" text-anchor="middle" font-size="15" fill="#374151">Video draft</text>
+    <text x="1015" y="285" text-anchor="middle" font-size="15" fill="#374151">Storyboard</text>
+    <text x="1015" y="315" text-anchor="middle" font-size="15" fill="#374151">Ad concept</text>
+  </g>
+  <text x="1100" y="478" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="14" fill="#64748b">JXP Seedance 2.5 reference pipeline</text>
+</svg>
